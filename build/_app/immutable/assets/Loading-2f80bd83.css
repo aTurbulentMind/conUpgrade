@@ -1,0 +1,1 @@
+div.svelte-12tfigq{--size:100px;position:fixed;top:0;left:0;inset:calc(50% - calc(var(--size) / 2));background:#980e04;border-radius:var(--size);height:var(--size);width:var(--size);animation:svelte-12tfigq-moveLoader 1s infinite alternate}@keyframes svelte-12tfigq-moveLoader{0%{transform:translate3d(100px,0,0)}to{transform:translate3d(-100px,0,0)}}
